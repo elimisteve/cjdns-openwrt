@@ -50,7 +50,7 @@ however the OpenWRT build process is not highly parallelized so your milage may 
 
     # make -j 4
 
-Upload the compiled firmware (which will be in the bin/ directory) to your desired router through any of the [avilable methods](http://wiki.openwrt.org/doc/howto/generic.flashing).
+Upload the compiled firmware (which will be in the bin/ directory) to your desired router through any of the [available methods](http://wiki.openwrt.org/doc/howto/generic.flashing).
 
 To update the version of cjdns:
 
